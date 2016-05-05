@@ -1,4 +1,4 @@
-angular.module("FinalApp")
+angular.module("WebApp")
 .controller("MainController",['$scope','$resource','PostResource', function($scope,$resource,PostResource){
 	/*$http.get()//sin resource
 	$http.post()*/
